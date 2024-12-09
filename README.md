@@ -15,3 +15,8 @@ return
 ```
 ![alt text](image.png)
 
+
+##NextSteps
+- Create CosmosDB/container/item for my counter
+
+![alt text](image-1.png)
