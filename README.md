@@ -4,6 +4,7 @@ My own azure resume following [ACG Project Template](https://www.youtube.com/wat
 ##First Steps
 
 - Frontend folder contains the website.
+
 -main.js containers visitor counter code
 
 ```js
